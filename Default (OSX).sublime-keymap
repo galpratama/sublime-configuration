@@ -1,0 +1,22 @@
+[
+    { "keys": ["command+v"], "command": "paste_and_indent",},
+    { "keys": ["command+shift+v"], "command": "paste",},
+      {
+        "keys": ["control+alt+;"], "command": "align_tab",
+        "args" : {
+          "user_input" : ":/f"
+        }
+      },
+      {
+        "keys": ["control+alt+="], "command": "align_tab",
+        "args" : {
+          "user_input" : "=/f"
+        }
+      },
+      {
+        "keys": ["control+alt+."], "command": "align_tab",
+        "args" : {
+          "user_input" : "=>/f"
+        }
+      }
+]

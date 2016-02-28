@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_selector": "source - (comment, string.quoted)",
+	// "auto_complete_commit_on_tab": true,
+	// "auto_complete_selector": "source, text",
+	// "auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai - Spacegray (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Primer Dark.sublime-theme",
+	"theme_primer_sidebar_tree_medium": true,
+	"theme_primer_tabs_xlarge": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

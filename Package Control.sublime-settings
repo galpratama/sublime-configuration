@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Scheme - Vintage Terminal",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Icon Fonts",
+		"JavaScript Completions",
+		"JSX",
+		"MarkdownEditing",
+		"Monokai - Spacegray",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeOnSaveBuild",
+		"Theme - Brogrammer",
+		"Theme - El Capitan",
+		"Theme - Flatgrammer",
+		"Theme - Primer",
+		"Theme - Spacegray",
+		"Zen Tabs"
+	]
+}
